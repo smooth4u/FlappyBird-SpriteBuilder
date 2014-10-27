@@ -13,6 +13,7 @@
     CCNode *_ground1;
     CCNode *_ground2;
     NSArray *_grounds;
+    
     CCNode *_cloud1;
     CCNode *_cloud2;
     NSArray *_clouds;
